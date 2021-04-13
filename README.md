@@ -1,5 +1,5 @@
 # Portfolio
 
 <img src="img's/Screenshot_1618301464.png"
-     alt="Markdown Monster icon"
-     style="float: left; margin-right: 10px;"width="500" height="600" />
+     alt="ss"
+      width="500" height="600" />
